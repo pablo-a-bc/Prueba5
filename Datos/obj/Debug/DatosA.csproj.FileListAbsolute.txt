@@ -1,0 +1,14 @@
+C:\Users\Pablote\Desktop\Projects\Prueba2\Datos\bin\Debug\Datos.dll.config
+C:\Users\Pablote\Desktop\Projects\Prueba2\Datos\bin\Debug\Datos.dll
+C:\Users\Pablote\Desktop\Projects\Prueba2\Datos\bin\Debug\Datos.pdb
+C:\Users\Pablote\Desktop\Projects\Prueba2\Datos\bin\Debug\EntidadesAlumno.dll
+C:\Users\Pablote\Desktop\Projects\Prueba2\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Pablote\Desktop\Projects\Prueba2\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pablote\Desktop\Projects\Prueba2\Datos\bin\Debug\EntidadesAlumno.pdb
+C:\Users\Pablote\Desktop\Projects\Prueba2\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Pablote\Desktop\Projects\Prueba2\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pablote\Desktop\Projects\Prueba2\Datos\obj\Debug\DatosA.csprojAssemblyReference.cache
+C:\Users\Pablote\Desktop\Projects\Prueba2\Datos\obj\Debug\DatosA.csproj.CoreCompileInputs.cache
+C:\Users\Pablote\Desktop\Projects\Prueba2\Datos\obj\Debug\DatosA.csproj.CopyComplete
+C:\Users\Pablote\Desktop\Projects\Prueba2\Datos\obj\Debug\Datos.dll
+C:\Users\Pablote\Desktop\Projects\Prueba2\Datos\obj\Debug\Datos.pdb

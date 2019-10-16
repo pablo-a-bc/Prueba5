@@ -1,0 +1,12 @@
+C:\Users\Pablote\Desktop\Projects\Prueba2\EntidadesAlumno\bin\Debug\Entidades.dll
+C:\Users\Pablote\Desktop\Projects\Prueba2\EntidadesAlumno\bin\Debug\Entidades.pdb
+C:\Users\Pablote\Desktop\Projects\Prueba2\EntidadesAlumno\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Pablote\Desktop\Projects\Prueba2\EntidadesAlumno\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Pablote\Desktop\Projects\Prueba2\EntidadesAlumno\obj\Debug\Entidades.dll
+C:\Users\Pablote\Desktop\Projects\Prueba2\EntidadesAlumno\obj\Debug\Entidades.pdb
+C:\Users\Pablote\Desktop\Projects\Prueba4\EntidadesAlumno\bin\Debug\Entidades.dll
+C:\Users\Pablote\Desktop\Projects\Prueba4\EntidadesAlumno\bin\Debug\Entidades.pdb
+C:\Users\Pablote\Desktop\Projects\Prueba4\EntidadesAlumno\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Pablote\Desktop\Projects\Prueba4\EntidadesAlumno\obj\Debug\Entidades.dll
+C:\Users\Pablote\Desktop\Projects\Prueba4\EntidadesAlumno\obj\Debug\Entidades.pdb
+C:\Users\Pablote\Desktop\Projects\Prueba4\EntidadesAlumno\obj\Debug\Entidades.csprojAssemblyReference.cache

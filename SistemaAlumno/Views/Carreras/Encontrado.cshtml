@@ -1,0 +1,58 @@
+﻿@model Entidades.ECarrera
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Encontrado</title>
+</head>
+<body>
+    <div>
+        <h4>Carrera</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Id)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Id)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Codigo)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Codigo)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.carrera)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.carrera)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Areadenegocio)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Areadenegocio)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Borrar", "Delete", new { id = Model.Id })
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

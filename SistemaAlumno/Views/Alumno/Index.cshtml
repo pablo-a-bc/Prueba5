@@ -1,0 +1,29 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div><h2>Bienvenido</h2></div>
+    <div><h2>Administrar alumnos</h2></div>
+    <div>
+        @Html.ActionLink("Crear", "Create", "Alumno")
+    </div>
+    <div>
+        @Html.ActionLink("Buscar", "Buscar")
+    </div>
+    <div>
+        @Html.ActionLink("Ver todos", "Todo")
+    </div>
+    <div>
+        @Html.ActionLink("Ir a pagina principal ", "Index","Home")
+    </div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+C:\Users\Pablote\Desktop\Projects\Prueba2\Alumnos\bin\Debug\Alumnos.dll
+C:\Users\Pablote\Desktop\Projects\Prueba2\Alumnos\bin\Debug\Alumnos.pdb
+C:\Users\Pablote\Desktop\Projects\Prueba2\Alumnos\obj\Debug\Alumnos.csprojAssemblyReference.cache
+C:\Users\Pablote\Desktop\Projects\Prueba2\Alumnos\obj\Debug\Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Pablote\Desktop\Projects\Prueba2\Alumnos\obj\Debug\Alumnos.dll
+C:\Users\Pablote\Desktop\Projects\Prueba2\Alumnos\obj\Debug\Alumnos.pdb
+C:\Users\Pablote\Desktop\Projects\Prueba2\Alumnos\bin\Debug\Datos.dll
+C:\Users\Pablote\Desktop\Projects\Prueba2\Alumnos\bin\Debug\EntidadesAlumno.dll
+C:\Users\Pablote\Desktop\Projects\Prueba2\Alumnos\bin\Debug\EntityFramework.dll
+C:\Users\Pablote\Desktop\Projects\Prueba2\Alumnos\bin\Debug\Datos.pdb
+C:\Users\Pablote\Desktop\Projects\Prueba2\Alumnos\bin\Debug\Datos.dll.config
+C:\Users\Pablote\Desktop\Projects\Prueba2\Alumnos\bin\Debug\EntidadesAlumno.pdb
+C:\Users\Pablote\Desktop\Projects\Prueba2\Alumnos\bin\Debug\EntityFramework.xml
+C:\Users\Pablote\Desktop\Projects\Prueba2\Alumnos\obj\Debug\Alumnos.csproj.CopyComplete

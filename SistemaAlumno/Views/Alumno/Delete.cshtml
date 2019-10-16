@@ -1,0 +1,72 @@
+﻿@model Entidades.EAlumno
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Borrar</title>
+</head>
+<body>
+    <h3>Esta seguro de eliminarlo?</h3>
+    <div>
+        <h4>EAlumno</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Rut)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Rut)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Nombre)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Apellidos)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Apellidos)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Edad)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Edad)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Sexo)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Sexo)
+            </dd>
+    
+        </dl>
+    
+        @using (Html.BeginForm()) {
+            @Html.AntiForgeryToken()
+    
+            <div class="form-actions no-color">
+                <input type="submit" value="Borrar" class="btn btn-default" /> |
+                @Html.ActionLink("Al Index", "Index")
+            </div>
+        }
+    </div>
+</body>
+</html>

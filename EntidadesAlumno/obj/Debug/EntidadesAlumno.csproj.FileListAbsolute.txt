@@ -1,0 +1,6 @@
+C:\Users\Pablote\Desktop\Projects\Prueba2\EntidadesAlumno\bin\Debug\EntidadesAlumno.dll
+C:\Users\Pablote\Desktop\Projects\Prueba2\EntidadesAlumno\bin\Debug\EntidadesAlumno.pdb
+C:\Users\Pablote\Desktop\Projects\Prueba2\EntidadesAlumno\obj\Debug\EntidadesAlumno.csprojAssemblyReference.cache
+C:\Users\Pablote\Desktop\Projects\Prueba2\EntidadesAlumno\obj\Debug\EntidadesAlumno.csproj.CoreCompileInputs.cache
+C:\Users\Pablote\Desktop\Projects\Prueba2\EntidadesAlumno\obj\Debug\EntidadesAlumno.dll
+C:\Users\Pablote\Desktop\Projects\Prueba2\EntidadesAlumno\obj\Debug\EntidadesAlumno.pdb
